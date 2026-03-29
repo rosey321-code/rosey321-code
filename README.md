@@ -1,166 +1,170 @@
-<!-- ==================== PROFESSIONAL HEADER BANNER ==================== -->
-<div align="center">
-  <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=1200&h=400&fit=crop" alt="Professional Developer Banner" width="100%" />
-  
-  # Warda Riffat
-  
-  ### Software Engineering Student | WordPress Developer | AI Automation Specialist
-  
-  <img src="https://img.shields.io/badge/Rawalpindi-Pakistan-0077B5?style=for-the-badge&logo=location&logoColor=white" alt="Location" />
-  <img src="https://img.shields.io/badge/GPA-3.66/4.0-28a745?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="GPA" />
-  <img src="https://img.shields.io/badge/Graduation-2027-00ADB5?style=for-the-badge" alt="Graduation" />
-</div>
-
----
-
-<!-- ==================== ABOUT SECTION ==================== -->
-## 👨‍ About Me
-
-> A dedicated **Software Engineering student** with comprehensive skills in **WordPress development**, **AI automation**, **digital marketing**, and **graphic design**. Proficient in developing websites from conception to launch, implementing automation workflows (**n8n**), and managing client communication. Strong problem-solving abilities with experience in identifying and resolving technical issues across platforms.
-
----
-
-<!-- ==================== TECH STACK ==================== -->
-## 🛠️ Technical Skills
-
 <div align="center">
 
-### Programming Languages
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50" alt="C" />
+<!-- HEADER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF4500&height=200&section=header&text=Warda%20Riffat&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20Automation%20%7C%20WordPress%20Developer&descAlignY=58&descSize=18"/>
 
-### Web Development
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" height="50" alt="PHP" />
+<!-- TYPING ANIMATION -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF4500&center=true&vCenter=true&width=600&lines=Building+AI-Powered+Solutions+%F0%9F%A4%96;n8n+Automation+Specialist+%E2%9A%A1;WordPress+%2B+WooCommerce+Developer+%F0%9F%9B%92;YOLO+Object+Detection+Engineer+%F0%9F%91%81%EF%B8%8F;WhatsApp+AI+Chatbot+Builder+%F0%9F%92%AC)](https://git.io/typing-svg)
 
-### Tools & Technologies
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="50" height="50" alt="WordPress" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="50" height="50" alt="Google" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="50" height="50" alt="Canva" />
+![Profile Views](https://komarev.com/ghpvc/?username=wardariffat&color=FF4500&style=flat-square&label=Profile+Views)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/wardariffat)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:wardariffat1@gmail.com)
 
 </div>
 
 ---
 
-<!-- ==================== GITHUB STATS ==================== -->
-## 📊 GitHub Statistics
+## 👩‍💻 About Me
 
-<div align="center">
+```python
+class WardaRiffat:
+    def __init__(self):
+        self.name        = "Warda Riffat"
+        self.role        = "Software Engineer | AI Automation Developer"
+        self.education   = "BS Software Engineering (GPA: 3.66/4.0)"
+        self.location    = "Pakistan 🇵🇰 | Remote Worldwide 🌍"
+        self.email       = "wardariffat1@gmail.com"
 
-<img src="https://github-readme-stats.vercel.app/api?username=wardariffat&show_icons=true&theme=dark&hide_border=true&title_color=00ADB5&text_color=ffffff&icon_color=00ADB5&bg_color=0d1117" alt="GitHub Stats" width="48%" />
+    def current_focus(self):
+        return [
+            "🤖  Building AI-powered WhatsApp chatbots with n8n + Gemini",
+            "👁️  Real-time object detection using YOLOv8 & Python",
+            "⚡  Automating business workflows with n8n & API integrations",
+            "🛒  WooCommerce stores with Elementor & digital marketing",
+        ]
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wardariffat&layout=compact&theme=dark&hide_border=true&title_color=00ADB5&text_color=ffffff&bg_color=0d1117" alt="Top Languages" width="48%" />
+    def ask_me_about(self):
+        return ["n8n automation", "WordPress", "AI chatbots",
+                "YOLO object detection", "WooCommerce", "MySQL"]
 
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=wardariffat&theme=dark&hide_border=true&background=0d1117&stroke=00ADB5&ring=00ADB5&fire=00ADB5&currStreakLabel=00ADB5" alt="Streak Stats" width="80%" />
-
-</div>
+    def fun_fact(self):
+        return "I turn coffee ☕ into automation workflows ⚡ and AI pipelines 🤖"
+```
 
 ---
 
-<!-- ==================== WORK EXPERIENCE ==================== -->
-## 💼 Work Experience
-
-| Company | Role | Year |
-|---------|------|------|
-| **Technospire Global Technologies** | Social Media Handler & Web Developer | 2026 |
-| **WebRabbit Agency** | WordPress Development & Automation Intern | 2025 |
-| **EZITECH Institute** | WordPress Development Intern | 2023 |
-
----
-
-<!-- ==================== PROJECTS ==================== -->
 ## 🚀 Featured Projects
 
-### 🤖 Automated WhatsApp AI Support ChatBot
-> AI-powered WhatsApp chatbot using n8n workflow with Google Gemini integration for intelligent customer support automation.
-> 
-> **Tech:** `n8n` `Google Gemini` `Google Sheets` `Memory Node`
-> 
-> [View Project](#)
+### 🤖 Automated WhatsApp AI Support Chatbot
+> An intelligent AI chatbot that automates customer support on WhatsApp — built with n8n, Google Gemini, and Google Sheets.
 
-### 🎯 YOLOv8 - Image & Video Object Detection
-> Real-time object detection system with bounding boxes, confidence scores, and AI voice alerts.
-> 
-> **Tech:** `Python` `YOLOv8` `OpenCV` `pyttsx3` `VS Code`
-> 
-> [View Project](#)
+- **Stack:** `n8n` · `Google Gemini AI` · `Google Sheets` · `WhatsApp Business API`
+- **Features:** Conversational memory, intelligent responses, automated data management
+- **Impact:** 24/7 automated customer support with zero human intervention
 
-### 📹 YOLOv5 - Real-Time Object Detection
-> Live webcam feed processing with bounding box overlays and voice output alerts.
-> 
-> **Tech:** `Python` `YOLOv5` `OpenCV` `Google Colab`
-> 
-> [View Project](#)
+```
+Flow: User Message → n8n → Google Gemini → Memory Node → Google Sheets → Reply
+```
 
 ---
 
-<!-- ==================== CERTIFICATIONS ==================== -->
-## 📜 Certifications
+### 👁️ YOLOv8 — Image & Video Object Detection
+> Production-ready computer vision system with real-time detection, bounding boxes, confidence scores, and AI voice alerts.
+
+- **Stack:** `Python` · `YOLOv8` · `OpenCV` · `pyttsx3` · `VS Code`
+- **Use Cases:** Security cameras · Inventory management · Quality control
+
+---
+
+### 🔍 YOLOv5 — Real-Time Webcam Detection
+> Live webcam detection system built on Google Colab with bounding box overlays and voice output alerts.
+
+- **Stack:** `Python` · `YOLOv5` · `OpenCV` · `Google Colab`
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-| Certification | Provider |
-|--------------|----------|
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**AI & Automation**
+
+![YOLOv8](https://img.shields.io/badge/YOLOv8-FF4500?style=for-the-badge&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+**Web & CMS**
+
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
+![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+</div>
+
+---
+
+## 💼 Work Experience
+
+| Period | Role | Company |
+|--------|------|---------|
+| 2026 | Social Media Handler & Web Developer | Technospire Global Technologies |
+| 2025 | WordPress Development & Automation Intern | WebRabbit Agency |
+| 2023 | WordPress Development Intern | Ezitech Institute |
+
+---
+
+## 🏆 Certifications
+
+| Certificate | Issuer |
+|-------------|--------|
 | WordPress Development | Learning With Earning |
 | Canva Design | Learning With Earning |
-| WordPress Development & Digital Marketing | Ezitech Institute |
-| Web Development & Client Solutions | WebRabbit Agency |
-| Web Developer & Social Media Manager | Technospire Global |
+| WordPress Development + Digital Marketing | Ezitech Institute |
+| Web Development + Client Solutions | WebRabbit Agency |
+| Web Developer + Social Media Manager | Technospire Global Technologies |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=wardariffat&show_icons=true&theme=radical&include_all_commits=true&count_private=true&title_color=FF4500&icon_color=FF4500&border_color=FF4500"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wardariffat&layout=compact&langs_count=8&theme=radical&title_color=FF4500&border_color=FF4500"/>
 
 </div>
 
 ---
 
-<!-- ==================== EDUCATION ==================== -->
 ## 🎓 Education
 
-| Degree | Institution | Year | GPA |
-|--------|-------------|------|-----|
-| BS Software Engineering | University | 2027 (Expected) | 3.66/4.0 |
-| FSC - Pre-Engineering | College | 2022 | - |
-| Matric - Science | School | 2020 | - |
+**🎓 BS Software Engineering** — Currently Enrolled, Expected 2027 | GPA: 3.66/4.0
+
+Focus: AI Automation · Data Management · Workflow Optimization · Quality Assurance
 
 ---
 
-<!-- ==================== ACTIVITY GRAPH ==================== -->
-## 📈 Contribution Activity
+## 📫 Let's Connect
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=wardariffat&theme=react-dark&hide_border=true&color=00ADB5&line=00ADB5&point=ffffff&area=true" alt="Activity Graph" width="100%" />
+Open to **remote freelance projects**, **paid internships**, and **AI automation collaborations** worldwide.
+
+[![Email](https://img.shields.io/badge/📧_wardariffat1@gmail.com-FF4500?style=for-the-badge)](mailto:wardariffat1@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge)](https://linkedin.com/in/wardariffat)
+
+**Available for:** AI Chatbots · n8n Automation · WordPress · Computer Vision
 
 </div>
 
 ---
 
-<!-- ==================== CONNECT WITH ME ==================== -->
-## 🌐 Connect With Me
-
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-wardariffat1@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wardariffat1@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/warda-riffat-556731317)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Message-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923255585309)
-[![Website](https://img.shields.io/badge/Website-Visit-00ADB5?style=for-the-badge&logo=google-chrome&logoColor=white)](http://www.reallygreatsite.com)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF4500&height=120&section=footer"/>
 
-</div>
-
----
-
-<!-- ==================== PROFILE VIEWS ==================== -->
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=wardariffat&color=00ADB5&style=flat-square" alt="Profile Views" />
-
-### ⭐ Thank you for visiting my profile!
+*"Automating the boring stuff so humans can focus on what matters."* ⚡
 
 </div>
