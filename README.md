@@ -127,17 +127,25 @@ Flow: User Message → n8n → Google Gemini → Memory Node → Google Sheets �
 
 ---
 
-## 📊 GitHub Stats
+
+## 📊 Performance & Contributions
 
 <div align="center">
 
-<!-- Stats Card - Matches #FF4500 -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rosey321-code&show_icons=true&theme=apprentice&title_color=FF4500&icon_color=FF4500&text_color=ffffff&bg_color=1c1c1c&border_color=FF4500&include_all_commits=true&count_private=true"/>
+<!-- GitHub Streak Stats (Unique Animated Vibe) -->
+<img height="165px" src="https://github-readme-streak-stats.herokuapp.com/?user=rosey321-code&currStreakNum=FF4500&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&fire=FF4500&ring=FF4500&stroke=00000000&background=00000000" alt="GitHub Streak" />
 
-<!-- Top Languages Card - Matches #FF4500 -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosey321-code&layout=compact&langs_count=8&theme=apprentice&title_color=FF4500&text_color=ffffff&bg_color=1c1c1c&border_color=FF4500"/>
+<!-- GitHub Stats (Transparent & Borderless) -->
+<img height="165px" src="https://github-readme-stats.vercel.app/api?username=rosey321-code&hide_border=true&title_color=FF4500&icon_color=FF4500&text_color=ffffff&bg_color=00000000&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+
+<br/>
+
+<!-- Language Progress Bar (Clean & Linear) -->
+<img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosey321-code&layout=compact&hide_border=true&title_color=FF4500&text_color=ffffff&bg_color=00000000&langs_count=6" alt="Top Languages" />
 
 </div>
+
+---
 
 ---
 
