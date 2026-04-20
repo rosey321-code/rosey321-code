@@ -132,25 +132,16 @@ Flow: User Message → n8n → Google Gemini → Memory Node → Google Sheets �
 
 <div align="center">
 
-<!-- GitHub Streak Stats (Unique Animated Vibe) -->
-<img height="165px" src="https://github-readme-streak-stats.herokuapp.com/?user=rosey321-code&currStreakNum=FF4500&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&fire=FF4500&ring=FF4500&stroke=00000000&background=00000000" alt="GitHub Streak" />
+## 📊 My Coding Journey
 
-<!-- GitHub Stats (Transparent & Borderless) -->
-<img height="165px" src="https://github-readme-stats.vercel.app/api?username=rosey321-code&hide_border=true&title_color=FF4500&icon_color=FF4500&text_color=ffffff&bg_color=00000000&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<!-- GitHub Stats: Borderless & Transparent -->
+<img height="180px" src="https://github-readme-stats.vercel.app/api?username=rosey321-code&hide_border=true&title_color=FF4500&icon_color=FF4500&text_color=586069&bg_color=00000000&show_icons=true&include_all_commits=true" />
 
 <br/>
 
-<!-- Language Progress Bar (Clean & Linear) -->
-<img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosey321-code&layout=compact&hide_border=true&title_color=FF4500&text_color=ffffff&bg_color=00000000&langs_count=6" alt="Top Languages" />
+<!-- Most Used Languages: Clean & Detailed -->
+<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosey321-code&layout=compact&hide_border=true&title_color=FF4500&text_color=586069&bg_color=00000000&langs_count=6" />
 
-</div>
-
----
-
----
-
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF4500&height=120&section=footer"/>
 </div>
 ---
 
