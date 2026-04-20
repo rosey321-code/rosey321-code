@@ -130,10 +130,9 @@ Flow: User Message → n8n → Google Gemini → Memory Node → Google Sheets �
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=wardariffat&show_icons=true&theme=radical&include_all_commits=true&count_private=true&title_color=FF4500&icon_color=FF4500&border_color=FF4500"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wardariffat&layout=compact&langs_count=8&theme=radical&title_color=FF4500&border_color=FF4500"/>
-
+<!-- Yahan username sahi kar diya gaya hai -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rosey321-code&show_icons=true&theme=radical&include_all_commits=true&count_private=true&title_color=FF4500&icon_color=FF4500&border_color=FF4500"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosey321-code&layout=compact&langs_count=8&theme=radical&title_color=FF4500&border_color=FF4500"/>
 </div>
 
 ---
