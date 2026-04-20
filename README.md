@@ -131,24 +131,6 @@ Flow: User Message → n8n → Google Gemini → Memory Node → Google Sheets �
 
 <div align="center">
 
-<!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF4500&height=200&section=header&text=Warda%20Riffat&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20Automation%20%7C%20Web%20Developer&descAlignY=58&descSize=18"/>
-
-<!-- TYPING ANIMATION (Width increased to avoid cutting text) -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=600&pause=1000&color=FF4500&center=true&vCenter=true&width=600&lines=Building+AI-Powered+Solutions+%F0%9F%A4%96;n8n+Automation+Specialist+%E2%9A%A1;Freelance+Tools+Developer+%F0%9F%92%B0;YOLO+Object+Detection+Engineer+%F0%9F%91%81%EF%B8%8F;WhatsApp+AI+Chatbot+Builder+%F0%9F%92%AC)](https://git.io/typing-svg)
-
-![Profile Views](https://komarev.com/ghpvc/?username=rosey321-code&color=FF4500&style=flat-square&label=Profile+Views)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/wardariffat)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:wardariffat1@gmail.com)
-
-</div>
-
----
-
-## 📊 GitHub Stats (Matched with Theme)
-
-<div align="center">
-
 <!-- Stats Card - Matches #FF4500 -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rosey321-code&show_icons=true&theme=apprentice&title_color=FF4500&icon_color=FF4500&text_color=ffffff&bg_color=1c1c1c&border_color=FF4500&include_all_commits=true&count_private=true"/>
 
